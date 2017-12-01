@@ -1,8 +1,10 @@
-# idealabs
+# Idealabs
 Work Projects For Resume
 
-  This folder includes code used while developing a discrete time perturbation for controlled dynamic systems.
+  This folder includes code written while a research assistant at BYU-Idea Labs. Most of the code is centered around
+ developing a discrete time perturbation for controlled dynamic systems.
 A key part of the process was creating a transfer function with poles within the unit circle. (For stability.)
-Much of the attached code and graphs deal with this aspect of the problem.
+Much of the attached code and graphs deal with this aspect of the problem and tests the sizes of various parameter
+solutions.
 
-   I also recommend looking at exploring-reachability.pdf for an example of my mathematical thinking and writing.
+   Please glance through exploring-reachability.pdf for an example of my mathematical thinking and writing.
