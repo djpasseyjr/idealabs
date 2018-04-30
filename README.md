@@ -8,3 +8,5 @@ Much of the attached code and graphs deal with this aspect of the problem and te
 solutions.
 
    Please glance through exploring-reachability.pdf for an example of my mathematical thinking and writing.
+   
+   For my work on optimizing a clustering algorithm see fasterIpsort.ipynb.
